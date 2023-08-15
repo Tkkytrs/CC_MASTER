@@ -44,5 +44,5 @@ A website that generates test credit cards and checks if they are working or not
 
 
 
-![Uploading Screenshot_20230815-130026_Termux.jpg…]()
 
+![Screenshot_20230815-130026_Termux](https://github.com/Tkkytrs/CC_MASTER/assets/120646466/7bcb1946-4e68-4461-a02f-ff7c8475871c)
